@@ -31,9 +31,6 @@ linkedin_username: philcorrick
 
 # Additional icon links
 additional_links:
-- title: Cardiac Rhythm Connect
-  icon: fas fa-globe
-  url: https://www.cardiacrc.com.au
 - title: Download Resume
   icon: fas fa-download
   url: https://phil.corrick.xyz/download/resume-oct21.pdf
@@ -51,9 +48,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/phil_2021.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I have extensive experience successfully delivering complex software and technology infrastructure projects, controlling scope/schedule/risk, and coordinating with teams of technical and non-technical people across various time zones. I have a broad spectrum of experience in the mining, oil & gas, critical infrastructure and telecommunications industries.
+  I am a telecommunications engineer and project manager with over 15 years of professinal experience, currently based in Perth, Westen Australia.
 
-  I enjoy working with a team to solve difficult problems and deliver complex solutions to clients.
+  I have extensive experience successfully delivering complex software, integration and technology infrastructure projects, coordinating with teams of technical and non-technical people across various time zones. I have a broad spectrum of experience in the mining, oil & gas, critical infrastructure and telecommunications industries.
+
+  I enjoy working with a team to solve difficult problems and deliver complex solutions.
 
 content:
   - title: Experience # Title for the section
@@ -68,7 +67,7 @@ content:
         quote: >
           Gibson Quai International provides independent, expert advice on all aspects of telecommunications industry technology, services and management.
         description: | # this will include new lines to allow paragraphs
-            Consulting service delivery and business development.
+            Consulting service delivery and business development in Perth, Western Australia.
 
       - layout: left
         title: Cardiac Rhythm Connect
@@ -79,10 +78,10 @@ content:
         description: | # this will include new lines to allow paragraphs
             Strategic management and software development of the underlying technology stack to run a modern, efficient medical data and services business.
 
-              * Web application development of customer facing applications in use by medical practices and service providers (PHP, Vue.js, Laravel framework)
-              * Design and management of cloud infrastructure (AWS)
-              * Database administration and development
-              * Payment gateway integration
+              * Web application development of customer facing applications in use by medical practices and service providers <mark>PHP</mark>, <mark>Vue.js</mark>, <mark>Laravel</mark>
+              * Design and management of cloud infrastructure <mark>AWS</mark>
+              * Database administration and development <mark>mysql</mark>
+              * Payment gateway integration <mark>Stripe</mark>
               * Automation of patient communications
 
       - layout: left
@@ -116,7 +115,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Project Manager for communications and entertainment system delivery to 6000+ rooms at mining camps across the Pilbara for FMG, Rio Tinto and Chevron/Gorgon. Responsible for the successful delivery of all aspects of each project in conjunction with the technical delivery team.
 
-          Technology solutions delivered include optical fibre cabling and passive splitting infrastructure, satellite receive system, GPON network, IPTV, telephony and Internet access delivery.
+          Technology solutions delivered include optical fibre cabling and passive splitting infrastructure, satellite receive system, GPON, IPTV, telephony and Internet access delivery.
 
       - layout: left
         title: Gibson Quai - AAS
@@ -124,9 +123,7 @@ content:
         caption: December 2004 - November 2010
         description: | # this will include new lines to allow paragraphs
             * Preparation of specifications, scoping of contractor works, technical drawings and procurement documentation for telecommunications facilities for a large LNG project. Including telecoms towers, equipment shelters, structured cabling systems, fire detection and alarm, building cabling and public address systems.
-
             * Management of a small team for the design and specification of communications facilities for a number of remote mining villages. Including IP telephony, Ethernet network, hybrid fibre/coaxial TV distribution, fibre-to-the-buildling (GPON) and structured cabling systems.
-
             * Radio broadcast planning and advice for community and high power open narrowcasting services in Western Australia.
 
   - title: Education # Title for the section
