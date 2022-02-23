@@ -12,7 +12,7 @@ email: phil@corrick.xyz
 website: phil.corrick.xyz
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 #twitter_username: facespics
@@ -34,6 +34,9 @@ additional_links:
 - title: Cardiac Rhythm Connect
   icon: fas fa-globe
   url: https://www.cardiacrc.com.au
+- title: Download Resume
+  icon: fas fa-download
+  url: https://phil.corrick.xyz/download/resume-oct21.pdf
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -46,11 +49,11 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/phil_2021.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  I have extensive experience successfully delivering complex software and technology infrastructure projects, controlling scope/schedule/risk, and coordinating with teams of technical and non-technical people across various time zones. I have a broad spectrum of experience in the mining, oil & gas, critical infrastructure and telecommunications industries.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I enjoy working with a team to solve difficult problems and deliver complex solutions to clients.
 
 content:
   - title: Experience # Title for the section
@@ -58,25 +61,73 @@ content:
     content:
       - layout: left
         title: Gibson Quai International
-        link: gqi.com.au
+        link: www.gqi.com.au
         # link_text: boringcompany.com
         sub_title: Senior ICT Consultant
-        caption: February 2022 - Present
+        caption: January 2022 - Present
         quote: >
-          Lorem ipsum
+          Gibson Quai International provides independent, expert advice on all aspects of telecommunications industry technology, services and management.
         description: | # this will include new lines to allow paragraphs
-            Lorem ipsum
+            Consulting service delivery and business development.
+
+      - layout: left
+        title: Cardiac Rhythm Connect
+        link: www.cardiacrc.com.au
+        # link_text: boringcompany.com
+        sub_title: Chief Technology Officer
+        caption: January 2020 - Present
+        description: | # this will include new lines to allow paragraphs
+            Strategic management and software development of the underlying technology stack to run a modern, efficient medical data and services business.
+
+              * Web application development of customer facing applications in use by medical practices and service providers (PHP, Vue.js, Laravel framework)
+              * Design and management of cloud infrastructure (AWS)
+              * Database administration and development
+              * Payment gateway integration
+              * Automation of patient communications
 
       - layout: left
         title: Western Advance
-        link: westernadvance.com.au
+        link: www.westernadvance.com.au
         # link_text: boringcompany.com
         sub_title: Project Manager and Systems Engineer
         caption: November 2013 - January 2022
         quote: >
-          Lorem ipsum
+          Western Advance specialises in electronic security, surveillance and threat detection solutions.  We partner recognised industry leaders to provide complete solutions to complex problems throughout Australia and the Asia Pacific region.
         description: | # this will include new lines to allow paragraphs
-            Lorem ipsum
+          Project management and systems engineering of integrated solutions, combining technology from multiple vendors and manufacturers, primarily in the oil & gas sector.
+
+          Specification, testing and management of custom software solutions for integration between disparate systems.
+
+          Implementation of operational technology solutions, and interfacing between operatinal technology (OT) and information technology (IT) systems.
+
+          Specific technology experience with:
+            * Electronic access control and site e-mustering systems including: <mark>Lenel OnGuard</mark>, <mark>Gallagher</mark>, <mark>Integriti</mark>, <mark>Tecom</mark> and <mark>Facility Commander</mark>
+            * CCTV hardware and software from manufacturers including: <mark>Synectics</mark>, <mark>Avigilon</mark>, <mark>Genetec</mark>, <mark>Milestone</mark>, <mark>Geutebruck</mark>, <mark>Axis</mark>, <mark>Bosch</mark>, <mark>Hikvision</mark>, <mark>BriefCam</mark>, <mark>AnyVision</mark>
+            * Physical Security Information Management systems (<mark>Everbridge Control Center</mark>)
+            * <mark>Industronic</mark> Public Address and General Alarm systems
+            * <mark>Navtech</mark> 77GHz FMCW radar solutions for vehicle and personnel tracking and outdoor surveillance
+
+      - layout: left
+        title: UXC Connect
+        link: westernadvance.com.au
+        # link_text: boringcompany.com
+        sub_title: Project Manager
+        caption: November 2010 - November 2013
+        description: | # this will include new lines to allow paragraphs
+          Project Manager for communications and entertainment system delivery to 6000+ rooms at mining camps across the Pilbara for FMG, Rio Tinto and Chevron/Gorgon. Responsible for the successful delivery of all aspects of each project in conjunction with the technical delivery team.
+
+          Technology solutions delivered include optical fibre cabling and passive splitting infrastructure, satellite receive system, GPON network, IPTV, telephony and Internet access delivery.
+
+      - layout: left
+        title: Gibson Quai - AAS
+        sub_title: Telecommunications Engineer
+        caption: December 2004 - November 2010
+        description: | # this will include new lines to allow paragraphs
+            * Preparation of specifications, scoping of contractor works, technical drawings and procurement documentation for telecommunications facilities for a large LNG project. Including telecoms towers, equipment shelters, structured cabling systems, fire detection and alarm, building cabling and public address systems.
+
+            * Management of a small team for the design and specification of communications facilities for a number of remote mining villages. Including IP telephony, Ethernet network, hybrid fibre/coaxial TV distribution, fibre-to-the-buildling (GPON) and structured cabling systems.
+
+            * Radio broadcast planning and advice for community and high power open narrowcasting services in Western Australia.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -86,26 +137,29 @@ content:
         caption: 2000 - 2004
         sub_title: BEng (Electrical and Electronic Engineering) & BSc (Computer Science)
         description: | # this will include new lines to allow paragraphs
-          Lorem ipsem
-
-          Lorem ipsem
+          Bachelor of Engineering (electrical and electronic engineering) and Bachelor of Science (Computer Science)
+          Final year engineering project *Influence of Phase and Timing Offsets on Soft Decoding Algorithms*
 
       - layout: left
         title: University of Bristol
         caption: 2003
-        sub_title: BEng (Electrical and Electronic Engineering)
         description: | # this will include new lines to allow paragraphs
-          Study Abroad
+          I spent an academic year on the Study Abroad program at Bristol University, studying Electrical and Electronic Engineering.
 
-          Lorem ipsem
+      - layout: left
+        title: Central Institute of Technology
+        caption: 2008 - 2010
+        sub_title: Certificate IV, Applied Language (Spanish)
+        description: | # this will include new lines to allow paragraphs
+          
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Some of my other interests and hobbies are:
       - Triathlon
+      - Raspberry Pi
       - Squash
-      - Fremantle Dockers
 
 # Footer
 footer_show_references: true
