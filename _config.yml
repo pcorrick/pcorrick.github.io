@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/phil_2021.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a telecommunications engineer and project manager with over 15 years of professinal experience, currently based in Perth, Westen Australia.
+  I am a telecommunications engineer and project manager with over 15 years of professional experience, currently based in Perth, Westen Australia.
 
   I have extensive experience successfully delivering complex software, integration and technology infrastructure projects, coordinating with teams of technical and non-technical people across various time zones. I have a broad spectrum of experience in the mining, oil & gas, critical infrastructure and telecommunications industries.
 
@@ -62,7 +62,7 @@ content:
         title: Gibson Quai International
         link: www.gqi.com.au
         # link_text: boringcompany.com
-        sub_title: Senior ICT Consultant
+        sub_title: WA Regional Manager
         caption: January 2022 - Present
         quote: >
           Gibson Quai International provides independent, expert advice on all aspects of telecommunications industry technology, services and management.
@@ -75,6 +75,8 @@ content:
         # link_text: boringcompany.com
         sub_title: Chief Technology Officer
         caption: January 2020 - Present
+        quote: >
+          CRC is committed to helping patients understand the therapy they are receiving and applying our specialised knowledge of device programming in order to ensure every patient has their device tailored specifically for their needs & lifestyle.
         description: | # this will include new lines to allow paragraphs
             Strategic management and software development of the underlying technology stack to run a modern, efficient medical data and services business.
 
@@ -118,6 +120,14 @@ content:
           Technology solutions delivered include optical fibre cabling and passive splitting infrastructure, satellite receive system, GPON, IPTV, telephony and Internet access delivery.
 
       - layout: left
+        title: Analysys Mason
+        sub_title: Consultant
+        caption: January 2009 - July 2009
+        description: | # this will include new lines to allow paragraphs
+            * Integration test witness for an emergency services TETRA radio network in the UK, including handset features, dispatch software and resilient integration of systems.
+            * Process development, contract management assistance and monitoring for the Irish National Broadband Scheme.
+
+      - layout: left
         title: Gibson Quai - AAS
         sub_title: Telecommunications Engineer
         caption: December 2004 - November 2010
@@ -154,9 +164,10 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Some of my other interests and hobbies are:
-      - Triathlon
-      - Raspberry Pi
+      - Swimming, cycling and running: Swimrun and Triathlon
+      - Building Raspberry Pi projects
       - Squash
+      - Fremantle Dockers
 
 # Footer
 footer_show_references: true
