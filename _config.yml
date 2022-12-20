@@ -182,3 +182,10 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+ - jekyll-analytics
+
+
+jekyll_analytics:
+  Plausible:
+    domain: 'pcorrick.github.io'   # The domain configured in plausible
+    source: 'https://plausible.io/js/script.js' # The source of the javascript
