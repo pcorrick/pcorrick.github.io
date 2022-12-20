@@ -181,6 +181,8 @@ sass:
   sass_dir: _sass
   style: compressed
 
+whitelist: [jekyll-analytics]
+
 plugins:
  - jekyll-seo-tag
  - jekyll-analytics
